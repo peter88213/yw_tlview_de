@@ -24,7 +24,7 @@ um das Programm auf Ihrem Desktop zugänglich zu machen.
 
 - Sie können den Timeline viewer starten, indem Sie eine *.yw7*-Datei 
   auf die Desktop-Verknüpfung ziehen, dann wird dieses Projekt geöffnet. 
-- Wenn Sie den Timeline viewer durch einen Klick oder Doppelklick auf das
+- Wenn Sie den Timeline viewer durch einen Doppelklick auf das
   Programmsymbol starten, wird das Projekt der letzten Sitzung automatisch wieder geöffnet, 
   sofern eines vorhanden ist.
 - Andernfalls erscheint eine leere Zeitleistenansicht, und Sie können auf den Menüpunkt 
