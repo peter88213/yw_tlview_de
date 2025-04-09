@@ -1,6 +1,8 @@
 # yw_tlview_de
 
 Language pack for the [yw_tlview](https://github.com/peter88213/yw_tlview) application.
+If this language pack is installed, and your system language is German, the Timeline viewer 
+user interface is in German, and German help pages are assigned to the help menu entry. 
 
 ---
 
