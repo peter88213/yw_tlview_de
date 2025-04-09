@@ -1,4 +1,4 @@
-[Home](..) > yWriter Timeline viewer Hilfe
+[Home](..) > yw Timeline viewer Hilfe
 
 ![external-link](images/external-link.png)[English](https://peter88213.github.io/yw_tlview/help/)
 
