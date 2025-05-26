@@ -6,7 +6,8 @@ Home
 
 ## Inhalt
 
-- [GitHub Projektseite (englisch)](https://github.com/peter88213/yw_tlview)
+- [yw_tlview Projektseite (englisch)](https://github.com/peter88213/yw_tlview)
+- [yw_tlview_de Projektseite (englisch)](https://github.com/peter88213/yw_tlview_de)
 - [Benutzerhandbuch](help)
 - [Rückmeldungen und Fragen](https://github.com/peter88213/yw_tlview/discussions)
 - [Einen Fehler melden (englisch)](https://github.com/peter88213/yw_tlview/issues)
